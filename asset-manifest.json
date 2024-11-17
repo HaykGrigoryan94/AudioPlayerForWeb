@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/HaykGrigoryan94/AudioPlayerForWeb/static/js/main.7ddbc696.js",
-    "static/js/717.107f491f.js": "/HaykGrigoryan94/AudioPlayerForWeb/static/js/717.107f491f.js",
-    "static/media/example_audio.mp3": "/HaykGrigoryan94/AudioPlayerForWeb/static/media/example_audio.9907c08c12c26c6c1d8f.mp3",
-    "favicon.ico": "/HaykGrigoryan94/AudioPlayerForWeb/favicon.ico",
-    "index.html": "/HaykGrigoryan94/AudioPlayerForWeb/index.html",
-    "static/media/rewind.png": "/HaykGrigoryan94/AudioPlayerForWeb/static/media/rewind.ff1e12827b391be10e76.png",
-    "static/media/forward.png": "/HaykGrigoryan94/AudioPlayerForWeb/static/media/forward.1b5e88483c2c6a58a2cf.png",
-    "static/media/play.png": "/HaykGrigoryan94/AudioPlayerForWeb/static/media/play.542f61a3fee48014b6eb.png",
-    "static/media/pause.png": "/HaykGrigoryan94/AudioPlayerForWeb/static/media/pause.d12032f2bfc7de00f7f4.png",
-    "favicon-32.png": "/HaykGrigoryan94/AudioPlayerForWeb/favicon-32.png",
-    "favicon-16.png": "/HaykGrigoryan94/AudioPlayerForWeb/favicon-16.png",
-    "serve.json": "/HaykGrigoryan94/AudioPlayerForWeb/serve.json",
-    "manifest.json": "/HaykGrigoryan94/AudioPlayerForWeb/manifest.json",
-    "main.7ddbc696.js.map": "/HaykGrigoryan94/AudioPlayerForWeb/static/js/main.7ddbc696.js.map",
-    "717.107f491f.js.map": "/HaykGrigoryan94/AudioPlayerForWeb/static/js/717.107f491f.js.map"
+    "main.js": "/AudioPlayerForWeb/static/js/main.bda84130.js",
+    "static/js/717.107f491f.js": "/AudioPlayerForWeb/static/js/717.107f491f.js",
+    "static/media/example_audio.mp3": "/AudioPlayerForWeb/static/media/example_audio.9907c08c12c26c6c1d8f.mp3",
+    "favicon.ico": "/AudioPlayerForWeb/favicon.ico",
+    "index.html": "/AudioPlayerForWeb/index.html",
+    "static/media/rewind.png": "/AudioPlayerForWeb/static/media/rewind.ff1e12827b391be10e76.png",
+    "static/media/forward.png": "/AudioPlayerForWeb/static/media/forward.1b5e88483c2c6a58a2cf.png",
+    "static/media/play.png": "/AudioPlayerForWeb/static/media/play.542f61a3fee48014b6eb.png",
+    "static/media/pause.png": "/AudioPlayerForWeb/static/media/pause.d12032f2bfc7de00f7f4.png",
+    "favicon-32.png": "/AudioPlayerForWeb/favicon-32.png",
+    "favicon-16.png": "/AudioPlayerForWeb/favicon-16.png",
+    "serve.json": "/AudioPlayerForWeb/serve.json",
+    "manifest.json": "/AudioPlayerForWeb/manifest.json",
+    "main.bda84130.js.map": "/AudioPlayerForWeb/static/js/main.bda84130.js.map",
+    "717.107f491f.js.map": "/AudioPlayerForWeb/static/js/717.107f491f.js.map"
   },
   "entrypoints": [
     "static/js/717.107f491f.js",
-    "static/js/main.7ddbc696.js"
+    "static/js/main.bda84130.js"
   ]
 }
