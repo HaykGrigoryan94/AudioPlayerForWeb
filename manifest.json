@@ -1,0 +1,8 @@
+{
+  "display": "standalone",
+  "lang": "en",
+  "name": "audio-player-expo",
+  "short_name": "audio-player-expo",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}
